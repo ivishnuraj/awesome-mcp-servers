@@ -1,6 +1,6 @@
 # Awesome MCP Servers [](https://awesome.re)
 
-[Awesome](https://awesome.re/badge.svg)
+![Awesome	](https://awesome.re/badge.svg)
 > A curated list of awesome Model Context Protocol (MCP) servers, tools, and resources.
 
 The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables developers to build secure, two-way connections between data sources and AI models.
