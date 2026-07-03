@@ -33,6 +33,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Notion](https://www.google.com/search?q=https://github.com/michaelfester/mcp-notion)** - Real-time access to pages, tasks, and databases.
   * **[Linear](https://www.google.com/search?q=https://github.com/linear/mcp-server)** - Integration with Linear's issue tracking system.
   * **[Microsoft 365](https://www.google.com/search?q=https://github.com/modelcontextprotocol/servers/tree/main/src/m365)** - Graph API integration for Outlook, Excel, and Calendar.
+  * **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter search, monitoring, media, and approval-gated posting workflows.
 
 ## 🌐 Search & Web APIs
 
