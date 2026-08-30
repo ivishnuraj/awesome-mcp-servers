@@ -24,6 +24,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Kubernetes](https://www.google.com/search?q=https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes)** - Monitor and manage K8s clusters and pods.
   * **[Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** - Retrieve and analyze error logs for debugging.
   * **[Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** - Browser automation and web scraping.
+  * **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** - MCP bridge for a local-first agent runtime with sandboxed sessions, credentials, approvals, and audit/replay.
   * **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Advanced reasoning tool for complex problem-solving.
 
 ## 💬 Communication & Workplace
