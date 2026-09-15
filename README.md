@@ -23,6 +23,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Docker](https://www.google.com/search?q=https://github.com/appcypher/mcp-server-docker)** - Seamless container and compose stack management.
   * **[Kubernetes](https://www.google.com/search?q=https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes)** - Monitor and manage K8s clusters and pods.
   * **[Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** - Retrieve and analyze error logs for debugging.
+  * **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
   * **[Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** - Browser automation and web scraping.
   * **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Advanced reasoning tool for complex problem-solving.
 
