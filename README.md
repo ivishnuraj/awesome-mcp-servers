@@ -26,6 +26,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** - Retrieve and analyze error logs for debugging.
   * **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
   * **[Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** - Browser automation and web scraping.
+  * **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** - MCP bridge for a local-first agent runtime with sandboxed sessions, credentials, approvals, and audit/replay.
   * **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Advanced reasoning tool for complex problem-solving.
 
 ## 💬 Communication & Workplace
