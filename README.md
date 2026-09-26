@@ -7,6 +7,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 🗄️ Databases & Storage
 
+  * [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust MCP server for encrypted, append-only knowledge with scoped, expiring grants; MIT licensed, built from source.
   * **[Postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** - Official read-only and schema-aware database access.
   * **[SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite)** - Local database management and querying.
   * **[Supabase](https://www.google.com/search?q=https://github.com/supabase/mcp-server)** - Serverless Postgres-based context with edge function support.
