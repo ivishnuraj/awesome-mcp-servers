@@ -57,6 +57,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 ## 📊 Data & Analytics
 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
+  * **[Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api)** - Live odds from 24 Kambi-powered sportsbooks in one call. Hosted Streamable HTTP at `https://mcp.apify.com?tools=publicrecords/sports-odds-api` (Apify OAuth).
 
 ## 🤖 AI Frameworks & Orchestrators
 
