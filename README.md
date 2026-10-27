@@ -66,6 +66,6 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 🔗 Aggregators
 
-  * **[Aident Loadout](https://github.com/Aident-AI/aident-skill)** - Remote MCP ([https://aident.ai](https://aident.ai)) connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one setup.
+  * **[Aident Loadout](https://github.com/Aident-AI/aident-skill)** - Remote MCP ([https://aident.ai](https://aident.ai)) connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to their apps and 400+ Skills through one setup.
   * **[MCPJungle](https://www.google.com/search?q=https://github.com/duaraghav8/mcpjungle)** - A self-hosted registry and proxy for enterprise agents.
   * **[Composio](https://github.com/ComposioHQ/composio)** - Unified interface for connecting 500+ apps.
