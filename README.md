@@ -57,6 +57,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 ## 📊 Data & Analytics
 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
+  * **[Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp)** - Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. Local stdio server: `npx -y github:GeminiGeorge22/etsy-sales-mcp` with your own `APIFY_TOKEN`.
 
 ## 🤖 AI Frameworks & Orchestrators
 
