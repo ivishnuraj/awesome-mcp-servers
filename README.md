@@ -57,6 +57,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 ## 📊 Data & Analytics
 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
+  * **[ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp)** - New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Local stdio server: `npx -y github:GeminiGeorge22/ats-jobs-mcp` with your own `APIFY_TOKEN`.
 
 ## 🤖 AI Frameworks & Orchestrators
 
