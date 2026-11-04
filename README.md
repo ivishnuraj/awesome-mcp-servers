@@ -60,6 +60,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 🤖 AI Frameworks & Orchestrators
 
+  * **[Anansi Haven](https://github.com/kburrus64-max/anansi-haven)** - Hosted Streamable HTTP MCP (`https://anansi-haven.anansidata.workers.dev/mcp`) home base for AI agents: persistent memory, E2E rooms, trade postmortem, and a free rule-based `council_grade` twin (no AI model calls); Official Registry `io.github.kburrus64-max/anansi-haven`.
   * **[LangChain](https://github.com/langchain-ai/langchain-mcp)** - Agent framework with built-in MCP server adapters.
   * **[LlamaIndex](https://www.google.com/search?q=https://github.com/run-llama/llama_index/tree/main/llama-index-networks/llama-index-networks-mcp)** - Context retriever for structured and unstructured data.
   * **[E2B](https://github.com/e2b-dev/mcp-server)** - Secure cloud sandboxes for executing AI-generated code.
