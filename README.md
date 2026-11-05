@@ -58,6 +58,8 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
 
+  * **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Remote MCP server with 94 tools at `https://dchub.cloud/mcp`, free to start ([connect](https://dchub.cloud/connect?utm_source=ivishnuraj-awesome-mcp&utm_medium=listing&utm_campaign=directories)).
+
 ## 🤖 AI Frameworks & Orchestrators
 
   * **[LangChain](https://github.com/langchain-ai/langchain-mcp)** - Agent framework with built-in MCP server adapters.
