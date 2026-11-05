@@ -57,6 +57,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 ## 📊 Data & Analytics
 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
+  * **[Vaneform](https://github.com/vaneform/vaneform-mcp)** - Free website traffic checker MCP (no API key required). Hosted remote endpoint at `https://vaneform.com/mcp`.
 
 ## 🤖 AI Frameworks & Orchestrators
 
