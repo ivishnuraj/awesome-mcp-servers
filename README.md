@@ -43,6 +43,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Notion](https://www.google.com/search?q=https://github.com/michaelfester/mcp-notion)** - Real-time access to pages, tasks, and databases.
   * **[Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)** - Search screen text and audio transcripts captured by a running Screenpipe instance through MCP. Source available under the Screenpipe Commercial License; configured cloud services and connected AI clients can send context off-device.
   * **[Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** - Channel and thread context for team collaboration.
+  * **[NeverApply](https://github.com/kasovy/neverapply-mcp)** - Hosted MCP (`https://neverapply.co/mcp`) for job search, matches, resume tailoring, interview prep, and approved applications (OAuth 2.1 PKCE).
 
 ## 🌐 Search & Web APIs
 
