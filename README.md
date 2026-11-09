@@ -56,6 +56,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 📊 Data & Analytics
 
+  * **[Datacircle](https://datacircle.dev)** - Find the best GTM APIs. Open to anyone with no key: add `https://api.datacircle.dev/mcp` to Claude, ChatGPT or Cursor.
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
 
 ## 🤖 AI Frameworks & Orchestrators
