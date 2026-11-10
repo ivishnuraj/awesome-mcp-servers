@@ -25,6 +25,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Docker](https://www.google.com/search?q=https://github.com/appcypher/mcp-server-docker)** - Seamless container and compose stack management.
   * **[deed.page](https://github.com/f-o-x11/deed-page-skill)** - Hosted remote MCP server (`https://deed.page/mcp`) that publishes static HTML files or folders to a public HTTPS URL, then updates or deletes them.
   * **[Kubernetes](https://www.google.com/search?q=https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes)** - Monitor and manage K8s clusters and pods.
+  * **[Imagera MCP](https://github.com/alexadams6ix/imagera-skills)** - Hosted remote MCP server (`https://mcp.imagera.ai/mcp`, OAuth) for image, video, voice and music generation and editing, with a cost estimate before each run.
   * **[KubeStellar Console kc-agent](https://github.com/kubestellar/console)** - AI-powered MCP server for multi-cluster Kubernetes management across edge and cloud.
   * **[Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** - Retrieve and analyze error logs for debugging.
   * **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
