@@ -47,6 +47,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 ## 🌐 Search & Web APIs
 
   * **[Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** - Web search capabilities using the Brave API.
+  * **[CheapCarRent](https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp)** - Read-only MCP server for searching rental cars and listing pickup cities and airports.
   * **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Convert web page content into LLM-friendly formats.
   * **[Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** - Location search and navigation capabilities.
   * **[Zapier](https://www.google.com/search?q=https://zapier.com/blog/mcp-server/)** - Connects AI agents to 6,000+ app automations.
