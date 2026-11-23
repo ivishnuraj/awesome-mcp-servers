@@ -59,6 +59,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
   * **[Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp)** - Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. Local stdio server: `npx -y github:GeminiGeorge22/gov-tenders-mcp` with your own `APIFY_TOKEN`.
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 ## 🤖 AI Frameworks & Orchestrators
 
   * **[LangChain](https://github.com/langchain-ai/langchain-mcp)** - Agent framework with built-in MCP server adapters.
