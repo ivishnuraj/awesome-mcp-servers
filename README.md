@@ -41,6 +41,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)** - Hosted MCP and API for AI-agent social media planning, review, scheduling, and batch publishing. See the [social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) and [documentation](https://app.bulkpublish.com/docs).
   * **[Kleap](https://github.com/kleaphq/cli)** - No-code website builder MCP (remote `https://kleap.co/api/mcp`) for creating, editing, and publishing live sites from AI agents.
   * **[Notion](https://www.google.com/search?q=https://github.com/michaelfester/mcp-notion)** - Real-time access to pages, tasks, and databases.
+  * [Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP) - Draft email campaigns, analyze popup and form performance, and build audience segments through the official hosted MCP server.
   * **[Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)** - Search screen text and audio transcripts captured by a running Screenpipe instance through MCP. Source available under the Screenpipe Commercial License; configured cloud services and connected AI clients can send context off-device.
   * **[Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** - Channel and thread context for team collaboration.
 
